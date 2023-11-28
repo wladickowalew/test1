@@ -1,7 +1,7 @@
 print("Hello world!")
-print("second line")
 a = int(input())
 b = int(input())
-print(a + b)
+print(a + b + 1)
 print("last command!")
+print("new changes")
 
